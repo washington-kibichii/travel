@@ -2719,6 +2719,12 @@ amp-img.circle img {
   border: 2px dashed;
   padding: 0 4px;
   font-weight: bold;
+  text-decoration: none;
+}
+
+a.travel-results-result-stars:active, a.travel-results-result-stars:hover {
+  border: 2px solid;
+  padding: 0 5px;
 }
 
 .travel-results-result-flags,.travel-results-result-like {
