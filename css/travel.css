@@ -18,6 +18,17 @@ body {
   height: 50px !important;
 }
 
+.slider-destinations{
+  width: 346px;
+  height: 200px;
+}
+@media (max-width:72.06rem) {
+  .slider-destinations{
+    width: 270px;
+    height: 176px;
+  }
+}
+
 article,aside,footer,header,nav,section {
   display: block
 }
@@ -2724,7 +2735,6 @@ amp-img.circle img {
 
 a.travel-results-result-stars:active, a.travel-results-result-stars:hover {
   border: 2px solid;
-  padding: 0 5px;
 }
 
 .travel-results-result-flags,.travel-results-result-like {
