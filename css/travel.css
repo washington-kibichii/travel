@@ -24,8 +24,11 @@ body {
 }
 @media (max-width:72.06rem) {
   .slider-destinations{
-    width: 250px;
-    height: 147px;
+    width: 220px;
+    height: 129px;
+  }
+  .meta-tax{
+    font-size: 0.7rem;
   }
 }
 
