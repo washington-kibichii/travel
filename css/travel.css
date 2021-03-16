@@ -2715,7 +2715,10 @@ amp-img.circle img {
 }
 
 .travel-results-result-stars.green {
-  color: #47b074
+  color: #47b074;
+  border: 2px dashed;
+  padding: 0 4px;
+  font-weight: bold;
 }
 
 .travel-results-result-flags,.travel-results-result-like {
