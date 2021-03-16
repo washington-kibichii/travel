@@ -2071,27 +2071,27 @@ amp-img.circle img {
 }
 
 .travel-link,.travel-link:visited {
-  color: #678804;
+  color: #fff;
   text-decoration: none;
   font-family: inherit;
   transition: color .15s ease-in
 }
 
 .travel-link:hover {
-  color: #b99aef
+  color: #678804
 }
 
 .travel-link:focus {
   outline: none;
-  border-bottom: 2px solid rgba(50,58,67,.2)
+  border-bottom: 2px solid #678804
 }
 
 .travel-link.gray,.travel-link.gray:visited {
-  color: #8f98a3
+  color: #fff
 }
 
 .travel-link.gray:hover {
-  color: #b4b4b4
+  color: #678804
 }
 
 .travel-pill {
