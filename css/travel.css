@@ -2071,7 +2071,7 @@ amp-img.circle img {
 }
 
 .travel-link,.travel-link:visited {
-  color: #fff;
+  /* color: #fff; */
   text-decoration: none;
   font-family: inherit;
   transition: color .15s ease-in
