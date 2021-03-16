@@ -1,0 +1,3 @@
+primary #678804
+secondary #A4A561
+accent: #CCC695
